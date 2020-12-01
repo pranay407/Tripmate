@@ -1,0 +1,75 @@
+.c1 {
+  box-shadow: 0 8px 10px 0 rgba(0, 0, 0, 0.3), 0 8px 30px 0 rgba(0, 0, 0, 0.2);
+  border-radius: 10px;
+  transition: 0.3s;
+  width: 232px;
+  height: 290px;
+  text-decoration: none;
+  margin-bottom: 20px !important;
+  padding-bottom: 20px;
+  text-align: center;
+}
+
+/* On mouse-over, add a deeper shadow */
+.c1:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
+}
+
+/* Add some padding inside the card container */
+.name {
+  padding: 2px 16px;
+  text-decoration: none;
+}
+.c1 > img {
+  width: 100%;
+}
+.center > h5 {
+  font-size: 45px;
+  color: rgb(103, 185, 218);
+}
+.title {
+  /* border: 3px solid green; */
+  padding: 10px;
+}
+.home {
+  padding-top: 2vh;
+}
+.all-tropic {
+  border: 3px solid green;
+  padding: 15px;
+  align-items: center;
+  display: flex;
+  justify-content: space-evenly;
+  text-decoration: none;
+}
+
+.all-dest {
+  text-decoration: none;
+}
+.title {
+  margin: auto;
+  /* border: 3px solid green; */
+  padding: 15px;
+}
+
+.center {
+  margin-left: 15vh;
+  padding: 10px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.center2 {
+  width: 103%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  /* margin: auto; */
+  margin-left: 6vh;
+  padding: 10px;
+  text-decoration: none;
+}
+h2 {
+  text-decoration: none;
+  color: #de3163;
+}
