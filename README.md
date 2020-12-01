@@ -1,6 +1,6 @@
 # Tripmate
 
-This application helps user to make plan for their vacation  
+This application helps user to make plan of trip or trpoic or club.
 
 ## Available Scripts
 
